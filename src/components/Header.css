@@ -1,0 +1,15 @@
+.header {
+    width: 80%;
+    height: auto;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    display: grid;
+    grid-template-rows: 1fr;
+}
+
+.header>div {
+    margin-top: 10%;
+    max-width: 100%;
+
+}
